@@ -1,5 +1,8 @@
 # Monthwise — Student Cash Flow Lab
 
+**Live website:** [Open Monthwise](https://sukritiagarwal26-ship-it.github.io/monthwise-student-cashflow/)  
+**Source code:** [GitHub repository](https://github.com/sukritiagarwal26-ship-it/monthwise-student-cashflow)
+
 **A browser-based student cash-flow simulator with a Rescue Planner.**
 
 Monthwise asks a practical finance question: *Can a month finish with cash left over, yet leave a student short before the next payment arrives?* It turns an estimated 30-day schedule into a daily balance path, finds the lowest point, and checks whether a feasible change to a user-marked flexible cost can protect a chosen safety buffer.
